@@ -16,7 +16,13 @@ _global_script_class_icons={
 [application]
 
 config/name="SwordOfSpirits"
+run/main_scene="res://First.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/always_on_top=true
+window/dpi/allow_hidpi=true
 
 [rendering]
 
